@@ -1,11 +1,11 @@
-# EDAIC Paper B – PWA (Version a0703613)
+# EDAIC Paper B – PWA (Version c3e46533)
 
 Statische Progressive Web App; Hosting über HTTPS genügt (GitHub Pages, Netlify).
 
 ## Veröffentlichen / Aktualisieren (GitHub Pages)
 1. Alle Dateien dieses Ordners ins Repository-Root hochladen („Add file → Upload files“, gleichnamige Dateien überschreiben), Commit.
 2. Settings → Pages → Branch `main`, Ordner `/ (root)` (nur beim ersten Mal).
-3. Nach 1–2 Minuten ist die neue Version live; auf dem Handy App schließen und neu öffnen (Cache-Name `edaic-b-a0703613`).
+3. Nach 1–2 Minuten ist die neue Version live; auf dem Handy App schließen und neu öffnen (Cache-Name `edaic-b-c3e46533`).
 
 ## Installieren
 - iPhone (Safari): Teilen → „Zum Home-Bildschirm“.
